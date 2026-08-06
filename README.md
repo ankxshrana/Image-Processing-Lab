@@ -18,6 +18,6 @@ To run this notebook successfully, you will need:
 2. Run the cells sequentially. Ensure you run Step 0 first so the required `sample_image.jpg` is present in your virtual environment before attempting Part 1[cite: 1].
 
 ## Author
-**ANKXSH.RANA**  
+**ANKUSH RANA**  
 Master of Computer Applications (MCA)  
 Thapar Institute of Engineering and Technology
